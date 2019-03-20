@@ -1,0 +1,50 @@
+body {
+	background-color:#8466FF;
+	color: #7706e8;
+	font-family: 'Caveat', 'Kalam', cursive;
+}
+
+h1{
+	font-size: 500%;
+	text-align:center;
+	color:#1CCAD8;
+	font-family: 'Merienda', fantasy;
+}   
+
+h2{
+	color:#fc07e0;
+	font-family: 'Patrick Hand', fantasy;
+	font-size: 200%
+} 
+h6{
+	font-size: 150%;
+	color:#6680e8;
+}  
+table {
+		width: 100%;
+	}
+	td {
+		width: 50%;
+	}
+
+.YOU{
+	width: 250;
+	height: 300px;
+	padding: 0px 20px 0px 20px;
+	background-color:#8D75FF;
+	border-radius:320px 320px 320px;
+	margin: auto;
+}
+.main{
+	
+}
+a:link {
+	color:#f95ecb;
+}
+a:visited {
+	color:#a066e8;
+}
+a:hover {
+	color:#9ea6ff;
+}
+
